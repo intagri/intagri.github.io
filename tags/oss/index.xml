@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSS on VUCA World</title>
+    <link>/tags/oss/</link>
+    <description>Recent content in OSS on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/oss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>トランプ政権と科学、移民、貧困問題</title>
+      <link>/trumpandoss/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/trumpandoss/</guid>
+      <description>&lt;p&gt;政治ベンチャーのようなトランプ政権が発足し、この先なにが起こるか、世界がかたずをのんで見守っているような状況です。ロシア疑惑があるのか、ないのか分かりませんが、上場したベンチャー企業が過去の怪しい取引や取引先について問われて四苦八苦しているような感じがします。当選（上場）すれば勝ちと思っていたのか、当選（上場）できると思っていなかったのか、いずれにしても古傷を隠すように支援者固めに選挙公約実施に邁進していくようです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R、OSSとNew York Times</title>
+      <link>/r-oss-new-york-times/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/r-oss-new-york-times/</guid>
+      <description>&lt;p&gt;統計ソフト&lt;a href=&#34;https://www.r-project.org&#34;&gt;R&lt;/a&gt;のユーザーが書いたblogを取りまとめた&lt;a href=&#34;https://www.r-bloggers.com&#34;&gt;R-bloggers&lt;/a&gt;というサイトがあり、長年愛読しています。&lt;/p&gt;
+&lt;p&gt;10年ほど前、New York Times（NYT）に統計ソフト&lt;a href=&#34;https://www.r-project.org&#34;&gt;R&lt;/a&gt;を特集した&lt;a href=&#34;http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?pagewanted=all&#34;&gt;記事&lt;/a&gt;が出ていると、R-bloggersで話題となっていました。Rユーザーの間ではNYTの人気が高く、統計ソフトとメディアとの間に、どのような関係があるのか不思議に思っていました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R、Pythonから学んだこと</title>
+      <link>/r-python/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/r-python/</guid>
+      <description>&lt;p&gt;近年、Big Dataを分析する道具として有名になっている&lt;a href=&#34;https://www.r-project.org&#34;&gt;R&lt;/a&gt;や&lt;a href=&#34;https://www.python.org&#34;&gt;Python&lt;/a&gt;というソフトウェア（コンピューター言語）があります。これらはオープン・ソース・ソフトウェア（OSS）と呼ばれるフリー（無料）のソフトウェアで、それぞれのホームページからダウンロードして使うことが可能です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ハンス・ロスリングを偲んで</title>
+      <link>/hansrosling/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/hansrosling/</guid>
+      <description>&lt;p&gt;2017年2月7日、ハンス・ロスリング氏が亡くなりました。
+ご存知ないかもしれませんが、まずはこのビデオ&lt;a href=&#34;https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=ja#t-1173980&#34;&gt;The best stats you&amp;rsquo;ve ever seen&lt;/a&gt;をご覧ください。
+2006年2月、TEDでの講演ですが、これにより世界の注目を集めることとなりました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>権利の左側</title>
+      <link>/copyleft/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/copyleft/</guid>
+      <description>&lt;p&gt;1980年代の終わり頃から、Macを使っています。順調だったかというとそうではなく、マイクロソフトのWindows95が世に出た1995年の前後、MacはWindowsに押されて新しいソフトウェアはほとんど出ず、受難の時代でした。当時、Appleが倒産しそうになったなど今では信じられないかもしれません。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

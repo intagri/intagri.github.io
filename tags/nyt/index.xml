@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NYT on VUCA World</title>
+    <link>/tags/nyt/</link>
+    <description>Recent content in NYT on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/nyt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>セクシーな職業</title>
+      <link>/sexy-profession/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/sexy-profession/</guid>
+      <description>&lt;p&gt;2009年8月のNew York Times（NYT）の&lt;a href=&#34;http://www.nytimes.com/2009/08/06/technology/06stats.html&#34;&gt;記事&lt;/a&gt;で、ハーバード大で文化人類学と考古学を専攻した学生がgoogleに就職したという話が紹介されていました。話題となったのは、この記事の中での以下のコメントでした。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R、OSSとNew York Times</title>
+      <link>/r-oss-new-york-times/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/r-oss-new-york-times/</guid>
+      <description>&lt;p&gt;統計ソフト&lt;a href=&#34;https://www.r-project.org&#34;&gt;R&lt;/a&gt;のユーザーが書いたblogを取りまとめた&lt;a href=&#34;https://www.r-bloggers.com&#34;&gt;R-bloggers&lt;/a&gt;というサイトがあり、長年愛読しています。&lt;/p&gt;
+&lt;p&gt;10年ほど前、New York Times（NYT）に統計ソフト&lt;a href=&#34;https://www.r-project.org&#34;&gt;R&lt;/a&gt;を特集した&lt;a href=&#34;http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?pagewanted=all&#34;&gt;記事&lt;/a&gt;が出ていると、R-bloggersで話題となっていました。Rユーザーの間ではNYTの人気が高く、統計ソフトとメディアとの間に、どのような関係があるのか不思議に思っていました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

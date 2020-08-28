@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on VUCA World</title>
+    <link>/tags/development/</link>
+    <description>Recent content in Development on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>統計を訂正する難しさ</title>
+      <link>/db2017/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/db2017/</guid>
+      <description>&lt;p&gt;世銀のチーフ・エコノミスト　ポール・ローマーが辞めたようです。きっかけは、世銀のDoing Business（DB）レポートの順位見直しについての2018年1月12日&lt;a href=&#34;https://www.wsj.com/articles/world-bank-unfairly-influenced-its-own-competitiveness-rankings-1515797620&#34;&gt;Wall Street Journal報道&lt;/a&gt;（有料記事）にあるようです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ハンス・ロスリングを偲んで</title>
+      <link>/hansrosling/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/hansrosling/</guid>
+      <description>&lt;p&gt;2017年2月7日、ハンス・ロスリング氏が亡くなりました。
+ご存知ないかもしれませんが、まずはこのビデオ&lt;a href=&#34;https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=ja#t-1173980&#34;&gt;The best stats you&amp;rsquo;ve ever seen&lt;/a&gt;をご覧ください。
+2006年2月、TEDでの講演ですが、これにより世界の注目を集めることとなりました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

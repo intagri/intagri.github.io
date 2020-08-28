@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.74.3" />
+  <link rel="canonical" href="/r-python/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/custom.css">
+
+  
+  
+  <title>R、Pythonから学んだこと | VUCA World</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">VUCA World</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="/post/">Blog</a></li>
+      
+        <li><a href="/tags/">Tags</a></li>
+      
+        <li><a href="/about/">About</a></li>
+      
+        <li><a href="/contact/">Contact</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+<h1 class="post-title">R、Pythonから学んだこと</h1>
+
+
+<strong>Publish date: </strong>Feb 27, 2017
+<br>
+
+  <strong>Tags: </strong>
+  
+    <a href="/tags/python">python</a>
+  
+    <a href="/tags/r">R</a>
+  
+    <a href="/tags/oss">OSS</a>
+  
+    <a href="/tags/%E9%87%91%E8%9E%8D">金融</a>
+  
+
+
+
+  
+
+
+
+<p>近年、Big Dataを分析する道具として有名になっている<a href="https://www.r-project.org">R</a>や<a href="https://www.python.org">Python</a>というソフトウェア（コンピューター言語）があります。これらはオープン・ソース・ソフトウェア（OSS）と呼ばれるフリー（無料）のソフトウェアで、それぞれのホームページからダウンロードして使うことが可能です。</p>
+<h4 id="rの世界">Rの世界</h4>
+<p>80年代後半からの現在まで、ずっとMacユーザーです。順風満帆だったわけではなく、90年代の半ば頃、Windows95に押されてMacの世界は新製品がでないような状態にありました。今では信じられないかもしれませんが、当時、Appleが倒産するような話もありました。仕方なくWindowsに乗り換えようかと考えていた時、偶然Rというソフトウェアに出会いました。日曜大工のような40の手習いでしたが、なんとかMacの上でRを使いながら、今日まで20年近くお世話になっています。</p>
+<p>ニュージーランド生まれの小さなソフトウェアがユーザーの支援・参加によって機能を強化・高度化し、世界中に広がって行きました。結果として類似の大手商業統計ソフトウェアを押しのけてデファクト・スタンダードの統計ソフトウェアとなっていく過程を見ることができました。貴重な体験です。</p>
+<p>40の手習いなので、改めて統計学を勉強するというよりも、データーを分析するコマンドをRに入力し、その結果がグラフや数値で出力されるという対話を単純に楽しんできました。とくにグラフ機能は充実していて、データーをいろんなグラフにすることが楽しさのひとつでした。新しい機能（package）が追加されるたびに分析対象分野が広がっていき、基本的な操作方法とコマンドがわかってくると、なじみのない分野でも見様見まねでわかったような気持ちになることができます。</p>
+<p>そんな未知の分野の1つが、金融工学でした。スイス連邦工科大学チューリッヒ校でスタートした金融工学パッケージを使ってみました。Rという統計のプラットフォームの上に、金融工学の基本的な機能、分野別（資産最適化、株、債券、デリバティブ関連）機能が順次追加されていき、2008年頃からは<a href="https://www.rmetrics.org">Rmetrics</a>という名前のパッケージ群となり、非営利団体が管理・運営しています。</p>
+<p>所詮素人なので、テキストに沿ってコマンドを打ち込んでいくだけですが、最新の経済・市場データーをyahooやセイント・ルイス連銀（<a href="https://fred.stlouisfed.org">FRED</a>）などのデータベースから自由にデーターをダウンロードして、分析できるようになっています。でき上がったグラフを眺めていると、結構わかったような気分にしてくれました。さまざまなデーターがオープンになって自由に使えるようになっていることが、OSSの拡大、さらにはData Scientistのような人材育成に良い影響を与えているように思います。</p>
+<h4 id="pythonの世界">Pythonの世界</h4>
+<p>Pythonというコンピューター言語については、アプリケーションやウェブの開発に使われている言語という程度の認識でした。ところが、リーマン・ショックの後のアメリカの金融規制の議論の中で、2010年4月頃、SEC（証券取引委員会）が「資産担保証券（ABS）のようなデリバティブ商品については、その仕組みをPythonを使ったプログラム・コードとして公表すべき」というような<a href="https://jrvarma.wordpress.com/2010/04/16/the-sec-and-the-python/">提案</a>していることを知りました。</p>
+<p>なぜPythonなのかというと、誰がプログラムを作成しても読みやすい言語であること（Pythonは他の言語との比較において文法面が厳密らしい）、無料の言語であること（公表するプログラムが特定企業の有料言語やアプリで作成されたものでは、利用者が限定されてしまう）などからPythonが選ばれたようです。なるほど、おもしろそうということで、50の手習いが始まりました。</p>
+<p>まずは、Pythonを使う環境選びです。iPythonという文章、数式、コマンド入力、出力（数値、グラフ）を1つのファイル（notebook）に融合させた便利なパッケージがあったので、これを利用することとしました。多くのユーザーが集まり、改善が進んだ結果、数年後にiPythonは<a href="http://jupyter.org">jupyter</a>と名を変え、Pythonに加え、R、<a href="https://www.gnu.org/software/octave/">Octave</a>、<a href="https://julialang.org">Julia</a>などの言語を使えるプラットフォームへ発展しました。</p>
+<p>次に、何を学ぶか、眺めるかでしたが、Big Dataが話題になり始めていた頃で、Rに続いてPythonの世界でもデーター分析、さらに機械学習を眺めていくことにしました。無料の教材、コースは多数あったので、初心者向けを選んで、どのようなところに応用されているのかを幅広くみるようにしました。素人、そしてRの世界しか知らないとは言え、この分野が非常に早いスピードで進んでいくのがわかりました。</p>
+<p>Pythonを金融分野で応用するベンチャー企業や財団が大小さまざまなセミナーを開き、その結果がウェブで公開されているのをよく読みましたが、内容もさることながら、米国の大手金融機関がスポンサーとして名を連ねているのが印象的でした。この辺りの米国企業の行動は、IT大手も金融大手も同じで、しっかりと業界動向を追いかけ続けているようです。マイケル・ルイスの<a href="https://www.amazon.co.jp/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%BA-10%E5%84%84%E5%88%86%E3%81%AE1%E7%A7%92%E3%81%AE%E7%94%B7%E3%81%9F%E3%81%A1-%E3%83%259">フラッシュ・ボーイズ</a>を読むと、金融業界におけるIT部門の機能や役割が違うと感じさせられます。ユーザーを含むITエコシステムそのものの違いが日本と米国等の違いなのかもしれません。</p>
+<h4 id="rとpythonを通じて学んだこと">RとPythonを通じて学んだこと</h4>
+<p>何よりも、OSSの実力、可能性、将来性です。
+Rは、もともとはAT&amp;Tのベル研究所が開発したSという統計言語を元に開発されたものです。この土台の上で、多くの研究者が自らの研究分野で利用するために新たなpackageを開発していくという循環を生み、拡大してきたために、同じようなpackageが見受けられ、統一感にかける感じがします。とは言え、一民間企業がこれだけの分野をカバーするソフトウェアを作れるかと考えると不可能と言わざるを得ません。大学発の研究者による研究者向けという根っこを持ったソフトウェアなのかもしれません。
+他方、pythonはRと同じ頃に開発された言語ですが、アプリケーションやウェブなどの開発に使われてきた汎用言語です。統計専用の言語ではありません。この言語の1つの分野として、近年、統計関連のライブラリーが加わり、それを利用していることになります。言語としての統一性という意味では、Rに比べるとスッキリしています。PythonがRを追いかけているような形となっていますが、RのpackageをPythonで利用すること、またその逆もできるようになっているので、最終的にはそれぞれの強みを生かして、何らかの棲み分けが成り立つのではないかと見ています。もちろん、Juliaとか新しい言語が追いかけ、追い越すこともあり得ますが、そのような言語もOSSなのでしょう。</p>
+<p>2つ目は、学習環境です。
+残念ながら、英語必須の世界です。インターネットでは、英語の無料のテキスト、講座が大量に存在します。したがって、予備知識ゼロからのスタートも可能です。途中、基本的な統計についての知識が必要になることがありますが、それも探せば、教材が見つかります。英語に自信がない人でも、わかりやすい英語で書いてあるものが多いので、根気強く続ければ、わかるようになります。必要なのは、根気と時間かもしれません。</p>
+<p>3つ目は、利用できるデーターの種類・蓄積です。
+無料のテキスト、講座があると書きましたが、いずれも学習のためのデーターが準備されており、それを加工、分析することで学んで行くように作られています。中には、たとえば世銀、<a href="https://fred.stlouisfed.org">FRED</a>や<a href="https://www.quandl.com">Quandl</a> のような外部のデーター・ベースからデーターを取得・加工することを1つの学習項目としているものもあります。世界でもっとも有名で、もっとも使われている<a href="https://en.wikipedia.org/wiki/Iris_flower_data_set">iris</a>というデーター・セットから始まり、実に多様なデーターを使って統計分析を学ばせようとしています。このようなデーターの種類と蓄積が分析業界の裾野と質を担保しているような気がします。裏返せば、昨今議論されているIT人材、AI人材の育成のためには、日本のオープン・データーの質と量が確保されなければ、ひたすら英語圏の経済・社会データー頼みになりかねません。googl、Amazon、Facebookなどと比較して遅れてしまったなどと議論する前に、日本の経済・社会のデーターが無料でダウンロードできる環境を整備することがこの分野の進展の鍵でしょう。<a href="https://government.github.com">Github and Government</a>というサイトがあります。GitHubを利用してデーターやコードを公表している各国の政府、地方政府、関係機関などが<a href="https://government.github.com/community/">紹介</a>されています。国毎の違いがわかります。日本では6つの組織が登録しており、福島の浪江町が頑張っています。</p>
+<p>4つ目は、寄付、貢献の文化です。</p>
+<p><a href="/post/hansrosling">前のポスト</a>で触れたgoogleVizの作者<a href="https://magesblog.com/">Markus Gusman</a>は、当時Lloyd&rsquo;s of Londonのアナリストでした。Rを使って業務を改革した成果を<a href="http://blog.revolutionanalytics.com/2011/09/how-lloyds-of-london-uses-r-for-insurance.html">発表</a>したり、<a href="http://www.rininsurance.com/">R in Insurance</a>という会合を創設しています。なお、Rに関連する会合としては、<a href="https://user2018.r-project.org/">use R!</a>、<a href="http://www.rinfinance.com/">R/Finance</a>などがあります。最近は日本国内でも、RやPythonの会合が多数開かれています。本業以外の時間でこのような貢献をしている人たちとそれに応えてスポンサーとなる企業・組織の寄付や支援がOSSを支えています。注目を集めている分野には、貢献を続ける人と寄付が集まっています。</p>
+<p>寄付がOSSの活動の一部を支えているのですが、世界中でどれくらいの金額が動いているのか実態は良くわかりません。2014年4月にOpenSSLという暗号通信プロトコールのOSSに<a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%96%E3%83%AA%E3%83%BC%E3%83%89">Heartbleed</a>という事件が起こった際、 その世界規模の影響と被害の大きさに注目が集まりました。しかし、もっとも驚かされたのはこのソフトを維持管理していたのが2、3人の専門家で、年間数千ドルの寄付しか集まっていなかったことです。被害や復旧のために世界中で要した費用に比べれば、これらの専門家の活動費用などスズメの涙にもならない金額でした。寄付や貢献の文化が機能している分野もありますが、そうではない地味で陽の当たらない分野もあることが明らかになりました。この事件を受けて、大手IT企業を中心に<a href="https://www.coreinfrastructure.org/">Core Inflrastructure Initiative</a>がスタートし、セキュリティーを支える重要なOSSを支援しています。日本からは、NEC、日立、富士通が参加しています。</p>
+<h4 id="最後に">最後に</h4>
+<p>Heartbleed事件が起こった時、今後一切OSSは使わない、と言っている人がいました。OSSの広がりを認識させられた事件だったのですが、その広がりを認識できない人も引き続き多数存在しているのです。失われた10年、20年という中で、本当に失ってしまったのは学ぶという意識なのかもしれません。</p>
+  
+
+      </main>
+      
+  
+
+  </div>
+  </body>
+</html>

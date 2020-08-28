@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>財務 on VUCA World</title>
+    <link>/tags/%E8%B2%A1%E5%8B%99/</link>
+    <description>Recent content in 財務 on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E8%B2%A1%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>鯖が落ちる日(2)</title>
+      <link>/serverdown2/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/serverdown2/</guid>
+      <description>&lt;p&gt;「うちもBig Dataというやつをやろう。買ってきてくれ」と言った経営者がいたという冗談を見かけました。昨今のブームになぞらえば、「機械学習の機械を買ってきてくれ」ということかもしれません。これを笑うことは簡単ですが、財務・金融やITなどデジタル化の進展の影響を受けやすい分野で、何をどの程度まで理解しておくかというスキルを身に付けるのはかなり大変なことです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>鯖が落ちる日(1)</title>
+      <link>/serverdown/</link>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/serverdown/</guid>
+      <description>&lt;p&gt;2005年頃、システム部門の担当となった頃の話です。
+自宅のパソコンでUnixをイジっているのとは異なり、企業のシステムは規模や複雑さで格段の違いがあり、さらには24時間365日動いて当たり前を達成しなければいけません。日々どうするのか、万一の時、どうするのかと考え始めると悩ましさが増していくばかりでした。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

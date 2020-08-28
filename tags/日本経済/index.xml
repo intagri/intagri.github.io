@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日本経済 on VUCA World</title>
+    <link>/tags/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88/</link>
+    <description>Recent content in 日本経済 on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5期ぶりGDPマイナス</title>
+      <link>/5-gdp/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/5-gdp/</guid>
+      <description>&lt;p&gt;昨夜、ニュースを見ながら家族と食事をしていた時の話です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>なぜ日本は没落するか</title>
+      <link>/fall-of-japan/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fall-of-japan/</guid>
+      <description>&lt;p&gt;かなり前、2001、2年頃のことですが、世界銀行の友人に「世銀はいつまで中国に融資するのか？」と聞いたことがあります。中国の発展度合い、自己資金調達能力、さらには世銀としてのリスク管理などから、融資の大幅スローダウンもありうるかなと思っていたので、聞いてみました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

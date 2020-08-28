@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Management on VUCA World</title>
+    <link>/tags/project-management/</link>
+    <description>Recent content in Project Management on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>プロジェクトはなぜ失敗するか（後編）</title>
+      <link>/project-management2/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project-management2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/post/project-management&#34;&gt;前編&lt;/a&gt;で紹介したフリュービェアの論文では、プロジェクト失敗の原因の1つとして「楽観バイアス（optimism bias)」について触れると同時に、英国においてこれを抑制するための手法を導入していると簡単に説明しています。では、英国では楽観バイアスにどのように対処しているかを見てみましょう。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>プロジェクトはなぜ失敗するか（前編）</title>
+      <link>/project-management/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project-management/</guid>
+      <description>&lt;p&gt;今回は、プロジェクトに関する話です。&lt;/p&gt;
+&lt;p&gt;2002年、ダニエル・カーネマン（Daniel Kahneman）がノーベル経済学賞を受賞しました。心理学の先生だと思っていたので、経済学賞とは意外でした。彼ら（Amos Tverskyとの共同研究）の業績の中で、認知バイアスや計画の誤謬（planning fallacy: 人は仕事を完了させるまでの時間を過小に見積もる傾向がある）などさまざまな分野で話題となり、取り入れられています。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

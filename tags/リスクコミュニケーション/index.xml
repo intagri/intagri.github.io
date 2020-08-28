@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>リスク・コミュニケーション on VUCA World</title>
+    <link>/tags/%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    <description>Recent content in リスク・コミュニケーション on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ITの暑い夏</title>
+      <link>/hotsummer/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotsummer/</guid>
+      <description>&lt;p&gt;サマータイムを導入しようという話が出ています。導入を巡って、いろんな分野の専門家が発表、発言されています。IT分野の議論では炎上気味のものもあり、暑い夏となっています。自民党内でのヒアリングが始まったようですが、どのような議論となるのか気になるところです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/saftyandrisk/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/saftyandrisk/</guid>
+      <description>&lt;p&gt;1998年から2004年にかけて、東大の駒場で非常勤講師をしたことがあります。途中2年間海外勤務をしたので、都合4年間教養課程の学生向けに後期週1回の90分授業を担当しました。私に何か特別の学問的知見があったわけではなく、東大農学部から講師派遣依頼を受けた人事部門が私を派遣したという組織対組織の枠組みでした。週1回とはいえ、最低でも12、3回分の講義を準備しなくてはいけなかったので、ネタを探すのに大変な苦労をしました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

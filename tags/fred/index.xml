@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fred on VUCA World</title>
+    <link>/tags/fred/</link>
+    <description>Recent content in Fred on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fred/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TED、TED、TED</title>
+      <link>/ted/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ted/</guid>
+      <description>
+
+
+&lt;p&gt;リーマン・ショックという経済危機から10年という節目を迎えるなか、米中貿易戦争が継続中です。また何か起こるのではないかという嫌な予感が漂うなかで、10年前を振り返る企画や記事が溢れています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>組織 on VUCA World</title>
+    <link>/tags/%E7%B5%84%E7%B9%94/</link>
+    <description>Recent content in 組織 on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E7%B5%84%E7%B9%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big in Japanとプラットフォーム</title>
+      <link>/big-in-japan-platform/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/big-in-japan-platform/</guid>
+      <description>&lt;p&gt;ラグビー・W杯が始りました。日本は第1戦ロシアを破りました。今回の日本代表でも外国からの選手が活躍しています。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

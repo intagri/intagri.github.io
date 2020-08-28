@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jupyter on VUCA World</title>
+    <link>/tags/jupyter/</link>
+    <description>Recent content in jupyter on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NOTEBOOK戦争が起きていた</title>
+      <link>/notebook/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/notebook/</guid>
+      <description>&lt;p&gt;小学生からプログラムを勉強させようということで、近く導入が始まるようです。どのようなカリキュラムなのか、気になるところです。プログラムに興味を持つ子供たちが出てくれば良いのですが、小学校のある時期でプログラム好き、嫌いかに別れ、それが文系・理系の区分へ発展することがないように中・高・大学へ続く長期的な展望で学習カリキュラムを考えて欲しいものです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>統計を訂正する難しさ</title>
+      <link>/db2017/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/db2017/</guid>
+      <description>&lt;p&gt;世銀のチーフ・エコノミスト　ポール・ローマーが辞めたようです。きっかけは、世銀のDoing Business（DB）レポートの順位見直しについての2018年1月12日&lt;a href=&#34;https://www.wsj.com/articles/world-bank-unfairly-influenced-its-own-competitiveness-rankings-1515797620&#34;&gt;Wall Street Journal報道&lt;/a&gt;（有料記事）にあるようです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>トランプ政権と科学、移民、貧困問題</title>
+      <link>/trumpandoss/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/trumpandoss/</guid>
+      <description>&lt;p&gt;政治ベンチャーのようなトランプ政権が発足し、この先なにが起こるか、世界がかたずをのんで見守っているような状況です。ロシア疑惑があるのか、ないのか分かりませんが、上場したベンチャー企業が過去の怪しい取引や取引先について問われて四苦八苦しているような感じがします。当選（上場）すれば勝ちと思っていたのか、当選（上場）できると思っていなかったのか、いずれにしても古傷を隠すように支援者固めに選挙公約実施に邁進していくようです。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

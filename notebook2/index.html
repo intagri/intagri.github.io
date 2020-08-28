@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.74.3" />
+  <link rel="canonical" href="/notebook2/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/custom.css">
+
+  
+  
+  <title>“NOTEBOOK戦争（その後）&#34; | VUCA World</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">VUCA World</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="/post/">Blog</a></li>
+      
+        <li><a href="/tags/">Tags</a></li>
+      
+        <li><a href="/about/">About</a></li>
+      
+        <li><a href="/contact/">Contact</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+<h1 class="post-title">“NOTEBOOK戦争（その後）&#34;</h1>
+
+
+<strong>Publish date: </strong>Nov 24, 2019
+<br>
+
+
+
+  
+
+
+
+<p>ほぼ1年前に、<a href="/post/notebook/">NOTEBOOK戦争</a>について書きました。過激な論争が起きるかなという期待が少しあったのですが、その後、まったく何も起こりませんでした。Jupyter、 Jupyterlabの人気、実力は揺るぎないのかと思っていました。</p>
+<p>ところが、意外なところからNotebook業界への新規参入があったようです。なんとNetflixです。先月、<a href="https://netflixtechblog.com/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447">Polynote</a>という新しいNotebook が公開されました。Netflixの支援を受けて開発されたようです。</p>
+<p>Netflixは、アメリカ株式市場の大手IT関連企業5社、通称FAANG（Facebook、Amazon、Apple、Netflix、Google）の１つです。インターネットで映像を配信する会社で、日本でも2015年から営業を開始しているので、今や多くの人がご存知でしょう。配信のみならず、独自の映画作製も行っています。</p>
+<p>Netflixがどんな会社かを知ったのは、2008年頃、Netflix Prizeという懸賞金付きのデーター分析競争のデーター匿名性について大きな議論が起きたときです。</p>
+<p>分析対象データーは、Netflixユーザーの映画に対する評価結果で</p>
+<p>＜ユーザー（数字）、映画（数字）、評価日、評価（1〜5）＞の4つからなり、個人情報は排除されていました。このデーターを使って、Netflixがユーザーへのお勧め（リコメンデーション）に使っている分析システムよりも良い分析結果を出せれば、賞金が得られるという競争でした。しかし、ある研究者がInternet Movie Databaseという映画評価投稿データーベースと突合することで、分析対象データー内のNetflixユーザーを特定できることを発見し、その研究結果を<a href="https://arxiv.org/pdf/cs/0610105.pdf">公表</a>しました。</p>
+<p>当時の一連の報道から、それまでデーターの匿名化をすれば問題ないと信じていたにもかかわらず、実は意外と簡単に個人が特定できるという匿名化と再特定のいたちごっこが続いていくようなBig Dataの光と影を感じました（新しいところでは、こんな<a href="https://jp.techcrunch.com/2019/07/25/2019-07-24-researchers-spotlight-the-lie-of-anonymous-data/">報道</a>がありました）。</p>
+<p>結局、集団訴訟が起きたりして、このコンペをやめるような事態になりましたが、個人的には、それまでNteflixのことをレンタルビデオ屋さん程度と認識していたので、実は顧客のニーズを分析して応えていくために相当高度な分析をしている会社だと認識を改めました。FANNGとか言われるだけの実力があるのでしょう。しかし、その後の動向をみると他の大手ITのように新しい言語やアプリを開発・公表するような話題が出てこない会社なのかなと思っていましたが、どうも違っていたようです。</p>
+<p>さて、今回登場したPolynoteの特徴は、１つのシートで複数の言語（polyglot；多言語）が使えるところのようです。今のところ、Scala、Python、SQLという3つの言語が利用可能ですが、今後増えていくのでしょう。Netflixの社内ではScalaを使っているので、このような言語の優先順位のようですが、興味を持つ人やユーザーが増えるに従い、よりニーズにあったものに変わっていくでしょう。</p>
+<p>オープン・ソース・ソフトウェア（OSS）の世界に対して、どのような立ち位置で貢献していくのかが企業にとって問われているのは間違いありません。自社のシステムの中にOSSが入っていないことはまずありえない時代です。企業はOSSの最大のユーザーなので、たかがNotebookの話と捉えることなく、企業とOSSコミュニティーの関係という目線で見ていかないといけません。</p>
+<p>社内でDX推進と騒ぐよりも、社外とどのように接点を持てるかが、結構大きなポイントになります。かつて、マイクロソフトはLinuxを筆頭とするOSSを敵とみなしているような行動をとっていましたが、今はOSSコミュニティーと共存共栄の関係を作り上げようとさまざまな活動をしています。 Visual Studio Codeというソフトは、</p>
+  
+
+      </main>
+      
+  
+
+  </div>
+  </body>
+</html>

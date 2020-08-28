@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blockchain on VUCA World</title>
+    <link>/tags/blockchain/</link>
+    <description>Recent content in blockchain on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブロックチェーンの思い出</title>
+      <link>/blockchain/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blockchain/</guid>
+      <description>&lt;p&gt;2015年の年末、外資系コンサルタントのアジアIT部門トップの人と面談する機会がありました。常駐しているシンガポールから来るとのことで、面談は英語でお願いしたいということでした。東京に来ても英語で対応してくれるユーザー企業がないのでお鉢が回ってきたらしいとの噂もありましたが、面白そうなので受けてみました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

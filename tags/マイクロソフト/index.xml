@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>マイクロソフト on VUCA World</title>
+    <link>/tags/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88/</link>
+    <description>Recent content in マイクロソフト on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>お前を消す方法</title>
+      <link>/bayes/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/bayes/</guid>
+      <description>&lt;p&gt;物騒なタイトルですが、最後までお付き合いください。さて、長らく積んでおいた本をようやく手に取り、先程読み終わりました。なるほど、そういう歴史があったのか、本当に何も知らなかったんだなと思い知らされました。目うろこの連続でした。本のタイトルは、「異端の統計学　ベイズ」。ということで、ベイスについて振り返ってみることにしましたん。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

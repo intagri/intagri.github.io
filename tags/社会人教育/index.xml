@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>社会人教育 on VUCA World</title>
+    <link>/tags/%E7%A4%BE%E4%BC%9A%E4%BA%BA%E6%95%99%E8%82%B2/</link>
+    <description>Recent content in 社会人教育 on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E7%A4%BE%E4%BC%9A%E4%BA%BA%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DXってなに？（2）</title>
+      <link>/dx2/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/dx2/</guid>
+      <description>&lt;p&gt;前のブログを読まれた方の中には、経営陣が悪いという印象を持たれた方がいるかと思います。誤解がないように強調しておきたいのは、経営陣も含めたエコシステムに問題が生じつつあることです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DXってなに？（1）</title>
+      <link>/dx1/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/dx1/</guid>
+      <description>&lt;p&gt;昨年9月に経済産業省のDXレポートなるものが世にでて1年余りたちました。発表された当時は消えてなくなるかと思っていましたが、予想に反してさらに次なるステージへ行こうとしています。このブログでは、DXを思わずデラックスと読んでしまったお父さんたちに向けて、3回に分けてこのレポートについて解説してみたいと思います。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>鯖が落ちる日(2)</title>
+      <link>/serverdown2/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/serverdown2/</guid>
+      <description>&lt;p&gt;「うちもBig Dataというやつをやろう。買ってきてくれ」と言った経営者がいたという冗談を見かけました。昨今のブームになぞらえば、「機械学習の機械を買ってきてくれ」ということかもしれません。これを笑うことは簡単ですが、財務・金融やITなどデジタル化の進展の影響を受けやすい分野で、何をどの程度まで理解しておくかというスキルを身に付けるのはかなり大変なことです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>鯖が落ちる日(1)</title>
+      <link>/serverdown/</link>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/serverdown/</guid>
+      <description>&lt;p&gt;2005年頃、システム部門の担当となった頃の話です。
+自宅のパソコンでUnixをイジっているのとは異なり、企業のシステムは規模や複雑さで格段の違いがあり、さらには24時間365日動いて当たり前を達成しなければいけません。日々どうするのか、万一の時、どうするのかと考え始めると悩ましさが増していくばかりでした。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

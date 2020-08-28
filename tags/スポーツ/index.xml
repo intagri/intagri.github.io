@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>スポーツ on VUCA World</title>
+    <link>/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
+    <description>Recent content in スポーツ on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big in Japanとプラットフォーム</title>
+      <link>/big-in-japan-platform/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/big-in-japan-platform/</guid>
+      <description>&lt;p&gt;ラグビー・W杯が始りました。日本は第1戦ロシアを破りました。今回の日本代表でも外国からの選手が活躍しています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big in Japan</title>
+      <link>/big-in-japan/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/big-in-japan/</guid>
+      <description>&lt;p&gt;2010〜11年頃、日本のように経済が長期低迷することを日本化（japanization）するとか、政治が指導力を発揮できないことを日本人化（turning japanese）するとかいう記事が少し話題になりました。以下、連想ゲームのように話題が続きますが、最後はラグビーの話です。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

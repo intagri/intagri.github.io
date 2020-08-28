@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on VUCA World</title>
+    <link>/tags/ai/</link>
+    <description>Recent content in AI on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DXってなに？（2）</title>
+      <link>/dx2/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/dx2/</guid>
+      <description>&lt;p&gt;前のブログを読まれた方の中には、経営陣が悪いという印象を持たれた方がいるかと思います。誤解がないように強調しておきたいのは、経営陣も含めたエコシステムに問題が生じつつあることです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DXってなに？（1）</title>
+      <link>/dx1/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/dx1/</guid>
+      <description>&lt;p&gt;昨年9月に経済産業省のDXレポートなるものが世にでて1年余りたちました。発表された当時は消えてなくなるかと思っていましたが、予想に反してさらに次なるステージへ行こうとしています。このブログでは、DXを思わずデラックスと読んでしまったお父さんたちに向けて、3回に分けてこのレポートについて解説してみたいと思います。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AIのリアル</title>
+      <link>/ai/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ai/</guid>
+      <description>&lt;p&gt;機械学習やAIのテキストやインターネットの学習コースでは、さまざまなデーターが提供されていて、それらを使ってプログラムを学んでいきます。このような学習に使われるデーターの中で、もっとも有名なデーターが、iris（アヤメ）という名のデーターでしょう。3種類のアヤメの花のサイズを測定した150個のデーターです。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

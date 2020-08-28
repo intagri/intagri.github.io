@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>法律 on VUCA World</title>
+    <link>/tags/%E6%B3%95%E5%BE%8B/</link>
+    <description>Recent content in 法律 on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E6%B3%95%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>法律という環境問題</title>
+      <link>/finance-and-law/</link>
+      <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/finance-and-law/</guid>
+      <description>&lt;p&gt;世界銀行が毎年行なっているDoing Business（DB）というレポートがあります。各国の中小企業のビジネス環境を比較しようと2004年にスタートしました。DBの売りは、このビジネス環境を指標化して全世界でランキングをつけたところにあります。ちなみに、日本政府はこのランキングを2020年までに先進国内で3位以内に入ることを日本復興戦略の目標（KPI）に掲げています。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

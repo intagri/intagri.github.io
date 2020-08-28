@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on VUCA World</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>日本語入力テスト</title>
+      <link>/test/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/test/</guid>
+      <description>日本語入力の向上が図れるか検討するものです。 これまでのRStudioでは、正直なところ、editor上での日本語入力がうまくいきませんでした。
+最新のバージョンでは、だいぶ改善されたような気がします。</description>
+    </item>
+    
+    <item>
+      <title>巨大プラットフォーマーの行方</title>
+      <link>/platformer/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/platformer/</guid>
+      <description>&lt;p&gt;海外、国内のプラットフォーマーといわれている企業に対する規制強化が議論されています。プライバシー、課税、独占的地位の利用などさまざまな問題が議論されています。他方で、ほとんど議論されていないプラットフォームが存在しています。それは、我が国政府、地方公共団体や公的機関のシステムです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R 20周年</title>
+      <link>/r-20/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/r-20/</guid>
+      <description>&lt;p&gt;統計ソフト&lt;a href=&#34;https://en.wikipedia.org/wiki/R_(programming_language)&#34;&gt;R&lt;/a&gt;のバージョン1.0.0が、20年前の2000年2月29日にリリースされました。それから20年ということで、記念する&lt;a href=&#34;https://jozef.io/r921-happy-birthday-r/&#34;&gt;記事&lt;/a&gt;が出ていました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>5期ぶりGDPマイナス</title>
+      <link>/5-gdp/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/5-gdp/</guid>
+      <description>&lt;p&gt;昨夜、ニュースを見ながら家族と食事をしていた時の話です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>駅伝</title>
+      <link>/new-post/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/new-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ウクライナの思い出</title>
+      <link>/ukraina/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ukraina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“NOTEBOOK戦争（その後）&#34;</title>
+      <link>/notebook2/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/notebook2/</guid>
+      <description>&lt;p&gt;ほぼ1年前に、&lt;a href=&#34;/post/notebook/&#34;&gt;NOTEBOOK戦争&lt;/a&gt;について書きました。過激な論争が起きるかなという期待が少しあったのですが、その後、まったく何も起こりませんでした。Jupyter、 Jupyterlabの人気、実力は揺るぎないのかと思っていました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big in Japanとプラットフォーム</title>
+      <link>/big-in-japan-platform/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/big-in-japan-platform/</guid>
+      <description>&lt;p&gt;ラグビー・W杯が始りました。日本は第1戦ロシアを破りました。今回の日本代表でも外国からの選手が活躍しています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DXってなに？（2）</title>
+      <link>/dx2/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/dx2/</guid>
+      <description>&lt;p&gt;前のブログを読まれた方の中には、経営陣が悪いという印象を持たれた方がいるかと思います。誤解がないように強調しておきたいのは、経営陣も含めたエコシステムに問題が生じつつあることです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DXってなに？（1）</title>
+      <link>/dx1/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/dx1/</guid>
+      <description>&lt;p&gt;昨年9月に経済産業省のDXレポートなるものが世にでて1年余りたちました。発表された当時は消えてなくなるかと思っていましたが、予想に反してさらに次なるステージへ行こうとしています。このブログでは、DXを思わずデラックスと読んでしまったお父さんたちに向けて、3回に分けてこのレポートについて解説してみたいと思います。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>お前を消す方法</title>
+      <link>/bayes/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/bayes/</guid>
+      <description>&lt;p&gt;物騒なタイトルですが、最後までお付き合いください。さて、長らく積んでおいた本をようやく手に取り、先程読み終わりました。なるほど、そういう歴史があったのか、本当に何も知らなかったんだなと思い知らされました。目うろこの連続でした。本のタイトルは、「異端の統計学　ベイズ」。ということで、ベイスについて振り返ってみることにしましたん。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>日韓関係の行方</title>
+      <link>/korea_japan/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/korea_japan/</guid>
+      <description>&lt;p&gt;1985年から3年間、韓国に住んでいたことがあります。成長する国々の変化は目覚しいので、当時の記憶は今や昔話にすぎないかもしれませんが、変化を知る上では意味があるかもしれません。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>統計不正問題とITの日常</title>
+      <link>/stats/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/stats/</guid>
+      <description>&lt;p&gt;厚生労働省が所管する毎月労働統計に不正があったということで、議論になっています。単なるミスなのか、意図あるミスなのかという議論に加えて、集計システム開発にコボル（COBOL）というコンピューター言語を使っていた（なんら問題ないはずです）ということがさらに議論を混迷させています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>All your base are belong to us</title>
+      <link>/ayb/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/ayb/</guid>
+      <description>&lt;p&gt;このポストのタイトル、”All your base are belong to us&amp;quot;を目にしたのは、2001年頃でした。文法的におかしい文章でした。それなりの有名人の文章か有力メディアの見出しの中に見かけたので、誤植にしてはおかしいなと思いました。しかし、その後も似たような文章を何度も見かけたので気になって調べてみました。日本のゲーム・メーカー、セガのゲーム・ソフトの英語版にでてくるフレーズでした。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AIのリアル</title>
+      <link>/ai/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ai/</guid>
+      <description>&lt;p&gt;機械学習やAIのテキストやインターネットの学習コースでは、さまざまなデーターが提供されていて、それらを使ってプログラムを学んでいきます。このような学習に使われるデーターの中で、もっとも有名なデーターが、iris（アヤメ）という名のデーターでしょう。3種類のアヤメの花のサイズを測定した150個のデーターです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NOTEBOOK戦争が起きていた</title>
+      <link>/notebook/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/notebook/</guid>
+      <description>&lt;p&gt;小学生からプログラムを勉強させようということで、近く導入が始まるようです。どのようなカリキュラムなのか、気になるところです。プログラムに興味を持つ子供たちが出てくれば良いのですが、小学校のある時期でプログラム好き、嫌いかに別れ、それが文系・理系の区分へ発展することがないように中・高・大学へ続く長期的な展望で学習カリキュラムを考えて欲しいものです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>品質管理はどこにいった？</title>
+      <link>/qc/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/qc/</guid>
+      <description>&lt;p&gt;1980年、社会人なりたての頃、とあることで品質管理の本を手に取ったことがあります。なかを見て、驚きました。まるで統計学の解説書だったからです。学生時代の統計学の講義を思い出して、メーカーに就職して品質管理の担当になったら大変だったなと安堵したことを思い出します。以降、品質管理を行っている人たちは大変な高度な仕事をしているエライ人たちだと勝手に思っていました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TED、TED、TED</title>
+      <link>/ted/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ted/</guid>
+      <description>
+
+
+&lt;p&gt;リーマン・ショックという経済危機から10年という節目を迎えるなか、米中貿易戦争が継続中です。また何か起こるのではないかという嫌な予感が漂うなかで、10年前を振り返る企画や記事が溢れています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ITの暑い夏</title>
+      <link>/hotsummer/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotsummer/</guid>
+      <description>&lt;p&gt;サマータイムを導入しようという話が出ています。導入を巡って、いろんな分野の専門家が発表、発言されています。IT分野の議論では炎上気味のものもあり、暑い夏となっています。自民党内でのヒアリングが始まったようですが、どのような議論となるのか気になるところです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>データー・サイエンティストと鈴虫</title>
+      <link>/dsethics/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/dsethics/</guid>
+      <description>&lt;p&gt;データー分析、人工知能（AI）開発に関係する人材が不足しているという報道や、さらに不足していくという将来予想が溢れています。どのように人材不足を計測し、予測しているのかはさておき、データー分析やAI利用の裾野が拡大している現実があるから話題となっているのでしょう。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>食糧安全保障とFood Security</title>
+      <link>/foodsecurity/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/foodsecurity/</guid>
+      <description>&lt;p&gt;15年くらい前、世界銀行関連の農業関係のセミナーに参加した時でだったと記憶していますが、セッションの合間にあるどこかの国際機関から来ている参加者との立ち話のなかで、面白いQ&amp;amp;Aがありました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shadow Director Premium</title>
+      <link>/shadowdirector/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/shadowdirector/</guid>
+      <description>&lt;p&gt;ガバナンス、何それ？というレベルでイイ歳まで生きてきました。しかし、国際機関の連中と仕事上付き合わざるを得なくなると、ガバナンスについて知っていないと会話が成り立たないことがありました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>統計を訂正する難しさ</title>
+      <link>/db2017/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/db2017/</guid>
+      <description>&lt;p&gt;世銀のチーフ・エコノミスト　ポール・ローマーが辞めたようです。きっかけは、世銀のDoing Business（DB）レポートの順位見直しについての2018年1月12日&lt;a href=&#34;https://www.wsj.com/articles/world-bank-unfairly-influenced-its-own-competitiveness-rankings-1515797620&#34;&gt;Wall Street Journal報道&lt;/a&gt;（有料記事）にあるようです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>なぜ日本は没落するか</title>
+      <link>/fall-of-japan/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fall-of-japan/</guid>
+      <description>&lt;p&gt;かなり前、2001、2年頃のことですが、世界銀行の友人に「世銀はいつまで中国に融資するのか？」と聞いたことがあります。中国の発展度合い、自己資金調達能力、さらには世銀としてのリスク管理などから、融資の大幅スローダウンもありうるかなと思っていたので、聞いてみました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>お食事券</title>
+      <link>/gift/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/gift/</guid>
+      <description>&lt;p&gt;子供が小学生、中学生くらいだった頃の話です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>インフラに融資する難しさ</title>
+      <link>/infla-finance/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/infla-finance/</guid>
+      <description>&lt;p&gt;援助業界にいたこともあり、日本はアジア・インフラ投資銀行（AIIB）に参加すべきかどうか、という質問を受けることがあります。とりあえず、「必要ないでしょう」と答えています。質問される方の問題意識は様々で、日中友好、日本企業のインフラ・ビジネス確保、外交上の必要性、他の先進国とのバランスなどがあるようです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ブロックチェーンの思い出</title>
+      <link>/blockchain/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blockchain/</guid>
+      <description>&lt;p&gt;2015年の年末、外資系コンサルタントのアジアIT部門トップの人と面談する機会がありました。常駐しているシンガポールから来るとのことで、面談は英語でお願いしたいということでした。東京に来ても英語で対応してくれるユーザー企業がないのでお鉢が回ってきたらしいとの噂もありましたが、面白そうなので受けてみました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big in Japan</title>
+      <link>/big-in-japan/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/big-in-japan/</guid>
+      <description>&lt;p&gt;2010〜11年頃、日本のように経済が長期低迷することを日本化（japanization）するとか、政治が指導力を発揮できないことを日本人化（turning japanese）するとかいう記事が少し話題になりました。以下、連想ゲームのように話題が続きますが、最後はラグビーの話です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>セクシーな職業</title>
+      <link>/sexy-profession/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/sexy-profession/</guid>
+      <description>&lt;p&gt;2009年8月のNew York Times（NYT）の&lt;a href=&#34;http://www.nytimes.com/2009/08/06/technology/06stats.html&#34;&gt;記事&lt;/a&gt;で、ハーバード大で文化人類学と考古学を専攻した学生がgoogleに就職したという話が紹介されていました。話題となったのは、この記事の中での以下のコメントでした。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>トランプ政権と科学、移民、貧困問題</title>
+      <link>/trumpandoss/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/trumpandoss/</guid>
+      <description>&lt;p&gt;政治ベンチャーのようなトランプ政権が発足し、この先なにが起こるか、世界がかたずをのんで見守っているような状況です。ロシア疑惑があるのか、ないのか分かりませんが、上場したベンチャー企業が過去の怪しい取引や取引先について問われて四苦八苦しているような感じがします。当選（上場）すれば勝ちと思っていたのか、当選（上場）できると思っていなかったのか、いずれにしても古傷を隠すように支援者固めに選挙公約実施に邁進していくようです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R、OSSとNew York Times</title>
+      <link>/r-oss-new-york-times/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/r-oss-new-york-times/</guid>
+      <description>&lt;p&gt;統計ソフト&lt;a href=&#34;https://www.r-project.org&#34;&gt;R&lt;/a&gt;のユーザーが書いたblogを取りまとめた&lt;a href=&#34;https://www.r-bloggers.com&#34;&gt;R-bloggers&lt;/a&gt;というサイトがあり、長年愛読しています。&lt;/p&gt;
+&lt;p&gt;10年ほど前、New York Times（NYT）に統計ソフト&lt;a href=&#34;https://www.r-project.org&#34;&gt;R&lt;/a&gt;を特集した&lt;a href=&#34;http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?pagewanted=all&#34;&gt;記事&lt;/a&gt;が出ていると、R-bloggersで話題となっていました。Rユーザーの間ではNYTの人気が高く、統計ソフトとメディアとの間に、どのような関係があるのか不思議に思っていました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>法律という環境問題</title>
+      <link>/finance-and-law/</link>
+      <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/finance-and-law/</guid>
+      <description>&lt;p&gt;世界銀行が毎年行なっているDoing Business（DB）というレポートがあります。各国の中小企業のビジネス環境を比較しようと2004年にスタートしました。DBの売りは、このビジネス環境を指標化して全世界でランキングをつけたところにあります。ちなみに、日本政府はこのランキングを2020年までに先進国内で3位以内に入ることを日本復興戦略の目標（KPI）に掲げています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/saftyandrisk/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/saftyandrisk/</guid>
+      <description>&lt;p&gt;1998年から2004年にかけて、東大の駒場で非常勤講師をしたことがあります。途中2年間海外勤務をしたので、都合4年間教養課程の学生向けに後期週1回の90分授業を担当しました。私に何か特別の学問的知見があったわけではなく、東大農学部から講師派遣依頼を受けた人事部門が私を派遣したという組織対組織の枠組みでした。週1回とはいえ、最低でも12、3回分の講義を準備しなくてはいけなかったので、ネタを探すのに大変な苦労をしました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R、Pythonから学んだこと</title>
+      <link>/r-python/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/r-python/</guid>
+      <description>&lt;p&gt;近年、Big Dataを分析する道具として有名になっている&lt;a href=&#34;https://www.r-project.org&#34;&gt;R&lt;/a&gt;や&lt;a href=&#34;https://www.python.org&#34;&gt;Python&lt;/a&gt;というソフトウェア（コンピューター言語）があります。これらはオープン・ソース・ソフトウェア（OSS）と呼ばれるフリー（無料）のソフトウェアで、それぞれのホームページからダウンロードして使うことが可能です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ハンス・ロスリングを偲んで</title>
+      <link>/hansrosling/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/hansrosling/</guid>
+      <description>&lt;p&gt;2017年2月7日、ハンス・ロスリング氏が亡くなりました。
+ご存知ないかもしれませんが、まずはこのビデオ&lt;a href=&#34;https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=ja#t-1173980&#34;&gt;The best stats you&amp;rsquo;ve ever seen&lt;/a&gt;をご覧ください。
+2006年2月、TEDでの講演ですが、これにより世界の注目を集めることとなりました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>鯖が落ちる日(2)</title>
+      <link>/serverdown2/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/serverdown2/</guid>
+      <description>&lt;p&gt;「うちもBig Dataというやつをやろう。買ってきてくれ」と言った経営者がいたという冗談を見かけました。昨今のブームになぞらえば、「機械学習の機械を買ってきてくれ」ということかもしれません。これを笑うことは簡単ですが、財務・金融やITなどデジタル化の進展の影響を受けやすい分野で、何をどの程度まで理解しておくかというスキルを身に付けるのはかなり大変なことです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>鯖が落ちる日(1)</title>
+      <link>/serverdown/</link>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/serverdown/</guid>
+      <description>&lt;p&gt;2005年頃、システム部門の担当となった頃の話です。
+自宅のパソコンでUnixをイジっているのとは異なり、企業のシステムは規模や複雑さで格段の違いがあり、さらには24時間365日動いて当たり前を達成しなければいけません。日々どうするのか、万一の時、どうするのかと考え始めると悩ましさが増していくばかりでした。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>権利の左側</title>
+      <link>/copyleft/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/copyleft/</guid>
+      <description>&lt;p&gt;1980年代の終わり頃から、Macを使っています。順調だったかというとそうではなく、マイクロソフトのWindows95が世に出た1995年の前後、MacはWindowsに押されて新しいソフトウェアはほとんど出ず、受難の時代でした。当時、Appleが倒産しそうになったなど今では信じられないかもしれません。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>プロジェクトはなぜ失敗するか（後編）</title>
+      <link>/project-management2/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project-management2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/post/project-management&#34;&gt;前編&lt;/a&gt;で紹介したフリュービェアの論文では、プロジェクト失敗の原因の1つとして「楽観バイアス（optimism bias)」について触れると同時に、英国においてこれを抑制するための手法を導入していると簡単に説明しています。では、英国では楽観バイアスにどのように対処しているかを見てみましょう。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>プロジェクトはなぜ失敗するか（前編）</title>
+      <link>/project-management/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project-management/</guid>
+      <description>&lt;p&gt;今回は、プロジェクトに関する話です。&lt;/p&gt;
+&lt;p&gt;2002年、ダニエル・カーネマン（Daniel Kahneman）がノーベル経済学賞を受賞しました。心理学の先生だと思っていたので、経済学賞とは意外でした。彼ら（Amos Tverskyとの共同研究）の業績の中で、認知バイアスや計画の誤謬（planning fallacy: 人は仕事を完了させるまでの時間を過小に見積もる傾向がある）などさまざまな分野で話題となり、取り入れられています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>10兆円を考える</title>
+      <link>/studentloans/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/studentloans/</guid>
+      <description>&lt;p&gt;増え続けて、間も無く10兆円を超えようとしている借金の話です。
+何の借金かというと、今話題になっている奨学金貸付です。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

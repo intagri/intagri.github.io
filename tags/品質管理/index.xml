@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>品質管理 on VUCA World</title>
+    <link>/tags/%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 品質管理 on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>品質管理はどこにいった？</title>
+      <link>/qc/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/qc/</guid>
+      <description>&lt;p&gt;1980年、社会人なりたての頃、とあることで品質管理の本を手に取ったことがあります。なかを見て、驚きました。まるで統計学の解説書だったからです。学生時代の統計学の講義を思い出して、メーカーに就職して品質管理の担当になったら大変だったなと安堵したことを思い出します。以降、品質管理を行っている人たちは大変な高度な仕事をしているエライ人たちだと勝手に思っていました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

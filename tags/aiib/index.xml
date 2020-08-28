@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIIB on VUCA World</title>
+    <link>/tags/aiib/</link>
+    <description>Recent content in AIIB on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/aiib/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>インフラに融資する難しさ</title>
+      <link>/infla-finance/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/infla-finance/</guid>
+      <description>&lt;p&gt;援助業界にいたこともあり、日本はアジア・インフラ投資銀行（AIIB）に参加すべきかどうか、という質問を受けることがあります。とりあえず、「必要ないでしょう」と答えています。質問される方の問題意識は様々で、日中友好、日本企業のインフラ・ビジネス確保、外交上の必要性、他の先進国とのバランスなどがあるようです。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

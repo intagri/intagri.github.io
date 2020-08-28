@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>韓国 on VUCA World</title>
+    <link>/tags/%E9%9F%93%E5%9B%BD/</link>
+    <description>Recent content in 韓国 on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E9%9F%93%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big in Japanとプラットフォーム</title>
+      <link>/big-in-japan-platform/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/big-in-japan-platform/</guid>
+      <description>&lt;p&gt;ラグビー・W杯が始りました。日本は第1戦ロシアを破りました。今回の日本代表でも外国からの選手が活躍しています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>日韓関係の行方</title>
+      <link>/korea_japan/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/korea_japan/</guid>
+      <description>&lt;p&gt;1985年から3年間、韓国に住んでいたことがあります。成長する国々の変化は目覚しいので、当時の記憶は今や昔話にすぎないかもしれませんが、変化を知る上では意味があるかもしれません。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

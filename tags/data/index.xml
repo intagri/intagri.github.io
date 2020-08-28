@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on VUCA World</title>
+    <link>/tags/data/</link>
+    <description>Recent content in data on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>統計不正問題とITの日常</title>
+      <link>/stats/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/stats/</guid>
+      <description>&lt;p&gt;厚生労働省が所管する毎月労働統計に不正があったということで、議論になっています。単なるミスなのか、意図あるミスなのかという議論に加えて、集計システム開発にコボル（COBOL）というコンピューター言語を使っていた（なんら問題ないはずです）ということがさらに議論を混迷させています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AIのリアル</title>
+      <link>/ai/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ai/</guid>
+      <description>&lt;p&gt;機械学習やAIのテキストやインターネットの学習コースでは、さまざまなデーターが提供されていて、それらを使ってプログラムを学んでいきます。このような学習に使われるデーターの中で、もっとも有名なデーターが、iris（アヤメ）という名のデーターでしょう。3種類のアヤメの花のサイズを測定した150個のデーターです。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

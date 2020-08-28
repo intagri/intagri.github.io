@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GNU on VUCA World</title>
+    <link>/tags/gnu/</link>
+    <description>Recent content in GNU on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>権利の左側</title>
+      <link>/copyleft/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/copyleft/</guid>
+      <description>&lt;p&gt;1980年代の終わり頃から、Macを使っています。順調だったかというとそうではなく、マイクロソフトのWindows95が世に出た1995年の前後、MacはWindowsに押されて新しいソフトウェアはほとんど出ず、受難の時代でした。当時、Appleが倒産しそうになったなど今では信じられないかもしれません。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

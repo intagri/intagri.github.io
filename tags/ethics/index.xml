@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics on VUCA World</title>
+    <link>/tags/ethics/</link>
+    <description>Recent content in Ethics on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>データー・サイエンティストと鈴虫</title>
+      <link>/dsethics/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/dsethics/</guid>
+      <description>&lt;p&gt;データー分析、人工知能（AI）開発に関係する人材が不足しているという報道や、さらに不足していくという将来予想が溢れています。どのように人材不足を計測し、予測しているのかはさておき、データー分析やAI利用の裾野が拡大している現実があるから話題となっているのでしょう。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

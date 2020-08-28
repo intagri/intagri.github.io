@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>債務 on VUCA World</title>
+    <link>/tags/%E5%82%B5%E5%8B%99/</link>
+    <description>Recent content in 債務 on VUCA World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E5%82%B5%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10兆円を考える</title>
+      <link>/studentloans/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/studentloans/</guid>
+      <description>&lt;p&gt;増え続けて、間も無く10兆円を超えようとしている借金の話です。
+何の借金かというと、今話題になっている奨学金貸付です。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
